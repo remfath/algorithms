@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 # -*- encoding: utf-8 -*-
 
+
 def find_smallest(list):
     '''
     Find the smallest number in a list
