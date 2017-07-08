@@ -1,3 +1,7 @@
+#!/usr/bin/env python3
+# -*- encoding: utf-8 -*-
+# 广度优先搜索
+
 from collections import deque
 
 
